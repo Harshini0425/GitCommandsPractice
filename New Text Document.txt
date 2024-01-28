@@ -1,1 +1,2 @@
+This is an example of merge conflict of feature2 branch are confliicted
 This is an example of merge conflict of feature2 branches
